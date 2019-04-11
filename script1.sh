@@ -1,5 +1,6 @@
 #!/bin/bash
 cd ~
+cd /home/ubuntu
 touch test1
 touch test2
 echo "Files created sucessfully"
